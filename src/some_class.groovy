@@ -1,4 +1,4 @@
-class SomeClass {
+class clubnames {
 
     def names =[
             "Arsenal",
@@ -18,5 +18,5 @@ class SomeClass {
 }
 
 
-//a=new SomeClass().getRandom()
+//a=new clubnames().getRandom()
 //println(a)
