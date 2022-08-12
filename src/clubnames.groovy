@@ -14,9 +14,12 @@ class clubnames {
         }
         return  names.first()
     }
+    
+    def getLenght(){    
+        a=new clubnames().getRandom().lenght()
+        println(a)
+    }
 
 }
 
 
-//a=new clubnames().getRandom()
-//println(a)
