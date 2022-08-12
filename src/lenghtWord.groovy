@@ -1,3 +1,3 @@
-def call(Srting word) {
+def call(String word) {
   println(word.lenght());
 }
